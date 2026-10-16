@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Sohan, a CS student who turns caffeine and hackathon deadlines into AI-powered apps.
 
-<!--
-**sonu-oss/sonu-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A RAG pipeline with hybrid search (dense + BM25), reranking & citation verification
 
-Here are some ideas to get you started:
+AI/GenAI apps, LLM-powered tools & hackathon projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Writing clean, idiomatic C++ (STL) & cracking DSA
+
+AI Engineering: LLMs, RAG & agentic workflows (+ Striver's A2Z DSA)
+
+Python, Java, MERN stack & hackathon builds
+
+I play chess and I'm low-key obsessed with Bugattis
